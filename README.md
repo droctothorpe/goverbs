@@ -8,7 +8,7 @@ I made this to help me remember Golang verbs in the fmt package. Maybe it will h
 
 ### Installation
 ```bash
-go get https://github.com/droctothorpe/goverbs
+go get github.com/droctothorpe/goverbs
 ```
 
 ### Usage
