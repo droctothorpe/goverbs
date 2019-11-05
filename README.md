@@ -15,7 +15,6 @@ go get github.com/droctothorpe/goverbs
 ```bash
 goverbs
 ```
-Output:
 ```
 ┌───────┬────────────────────────────────────────────┬─────────┬──────────────┐
 │ VERB  │ DESCRIPTION                                │ INPUT   │ OUTPUT       │
