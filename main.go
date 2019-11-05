@@ -34,7 +34,7 @@ func main() {
 		{"%q", "Quoted Character", "65", fmt.Sprintf("%q", n)},
 		{"%U", "Unicode", "65", fmt.Sprintf("%U", n)},
 		{"%#U", "Unicode with character", "65", fmt.Sprintf("%#U", n)},
-		{"%t", "Bolean", "true", fmt.Sprintf("%t", true)},
+		{"%t", "Boolean", "true", fmt.Sprintf("%t", true)},
 		{"%e", "Scientific notation", fmt.Sprintf("%v", f), fmt.Sprintf("%e", f)},
 		{"%f", "Decimal point, no exponent", fmt.Sprintf("%v", f), fmt.Sprintf("%f", f)},
 		{"%.2f", "Default width, precision 2", fmt.Sprintf("%v", f), fmt.Sprintf("%.2f", f)},
